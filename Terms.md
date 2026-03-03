@@ -29,6 +29,8 @@ You agree to:
 
 You are solely responsible for how content refined or entered using EduSync is used.
 
+*EduSync provides writing assistance tools only. The Extension does **not guarantee compliance with academic, workplace, or institutional policies**, including AI-detection, plagiarism, or originality requirements. Users are solely responsible for ensuring that any content created, refined, or typed using EduSync complies with all applicable rules, regulations, and policies.
+
 ---
 
 ## 3. Prohibited Uses
