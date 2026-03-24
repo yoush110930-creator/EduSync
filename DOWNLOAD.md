@@ -8,7 +8,7 @@ You can download EduSync, the writing optimization Chrome extension, using the l
 
 ## 📥 Download Link
 
-[Download EduSync.zip from Dropbox]([https://www.dropbox.com/scl/fi/lhw7ncudhskxvw5q97os4/Edu-Sync.zip?rlkey=uw1b1zi2f3pdte89p3dukg6g4&st=ri5vb0mo&dl=0](https://www.dropbox.com/scl/fo/7ea003r80c5gixpj1sda1/AHZkxn3bclJjTpAvzI3FQd0?rlkey=0myhdxjvv20chmqp7vk6w738d&st=rv03j8oe&dl=0)])
+[Download EduSync.zip from Dropbox](https://www.dropbox.com/scl/fi/lhw7ncudhskxvw5q97os4/Edu-Sync.zip?rlkey=uw1b1zi2f3pdte89p3dukg6g4&st=ri5vb0mo&dl=0](https://www.dropbox.com/scl/fo/7ea003r80c5gixpj1sda1/AHZkxn3bclJjTpAvzI3FQd0?rlkey=0myhdxjvv20chmqp7vk6w738d&st=rv03j8oe&dl=0))
 
 ---
 
