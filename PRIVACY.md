@@ -9,7 +9,7 @@ EduSync is committed to protecting user privacy and ensuring transparency regard
 ## 1. Data Collected
 
 ### Content Data
-- Text provided by users for **Academic Optimization (Humanizer)** is sent to [https://undetectai.io/](https://undetectai.io/) for processing.  
+- Text provided by users for **Academic Optimization (Humanizer)** is sent to [https://undetectai.io/](https://undetectai.io/) and [https://cleverhumanizer.ai/](https://cleverhumanizer.ai/) for processing.  
 - Text entered into **Auto-Typing (Transcription Emulator)** is handled entirely **locally** in the browser.  
 
 **Note:** EduSync does **not** collect personal information such as emails, usernames, or identifiers. Auto-Typing text is **not transmitted externally**.
@@ -24,7 +24,7 @@ No browsing history, page URLs, or other personal data is collected.
 
 ## 2. How Data Is Used
 
-- **Humanizer:** Text is processed to provide refined output using `https://undetectai.io/`.  
+- **Humanizer:** Text is processed to provide refined output using https://cleverhumanizer.ai/ and https://undetectai.io/.  
 - **Auto-Typing:** Text is typed locally; no external processing occurs.  
 - Anonymous metrics are used solely to improve extension performance and stability.  
 
