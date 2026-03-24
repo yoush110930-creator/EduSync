@@ -75,7 +75,7 @@ Users must ensure compliance with their organization’s rules.
 - Coming soon! Currently, EduSync is available via Developer Mode installation.
 
 ### Manual Installation (Developer Mode)
-1. Download the ziped extension folder from [DOWNLOAD.md](DOWNLOAD.md).  
+1. Download the ziped extension folder from [Download](DOWNLOAD.md).  
 2. Navigate to: `chrome://extensions/`  
 3. Enable **Developer Mode** (top-right corner)  
 4. Click **Load unpacked**  
