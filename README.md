@@ -75,7 +75,7 @@ Users must ensure compliance with their organization’s rules.
 - Coming soon! Currently, EduSync is available via Developer Mode installation.
 
 ### Manual Installation (Developer Mode)
-1. Download or clone the repository.  
+1. Download the ziped extension folder from DOWNLOAD.md.  
 2. Navigate to: `chrome://extensions/`  
 3. Enable **Developer Mode** (top-right corner)  
 4. Click **Load unpacked**  
@@ -105,9 +105,7 @@ Users must ensure compliance with their organization’s rules.
 ---
 
 ## ⌨ Keyboard Shortcuts (Default)
-- Open EduSync: `Ctrl + Shift + E`  
-- Humanizer (Academic Optimization): `Ctrl + Shift + O`  
-- Auto-Typing (Transcription Emulator): `Ctrl + Shift + D`  
+- Open EduSync: `Ctrl + Q`  
 - Close EduSync: `F`
 
 ---
