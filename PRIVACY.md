@@ -42,7 +42,7 @@ EduSync does **not** sell, rent, or share user data for marketing purposes.
 
 ## 4. Third-Party Services
 
-- EduSync relies on [https://undetectai.io/](https://undetectai.io/) and [https://cleverhumanizer.ai/](https://cleverhumanizer.ai/)for text refinement (Humanizer). This service operates under its own terms and privacy policies.  
+- EduSync relies on [https://undetectai.io/](https://undetectai.io/) and [https://cleverhumanizer.ai/](https://cleverhumanizer.ai/) for text refinement (Humanizer). This service operates under its own terms and privacy policies.  
 - No other third-party integrations or analytics are used.  
 - Auto-Typing is fully local; no external services are involved.
 
