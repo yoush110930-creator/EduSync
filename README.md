@@ -105,8 +105,7 @@ Users must ensure compliance with their organization’s rules.
 ---
 
 ## ⌨ Keyboard Shortcuts (Default)
-- Open EduSync: `Ctrl + Q`  
-- Close EduSync: `F`
+- Open/Close EduSync: `Ctrl + Q`  
 
 ---
 
